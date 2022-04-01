@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LiliEl
+- 👋 Hi, I’m @El_Lili
 - 👀 I’m interested in 3D graphics art, game development and modding
 - 🌱 I’m currently learning Introduction to Programming
 
